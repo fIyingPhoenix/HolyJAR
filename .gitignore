@@ -1,0 +1,37 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse-specific files
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# Maven
+.mvn/
+!**/src/main/**/.gitkeep
+!**/src/test/**/.gitkeep
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Other
+out/
