@@ -1,4 +1,4 @@
-package HolyJAR;
+package holyjar;
 
 
 import java.util.Scanner;

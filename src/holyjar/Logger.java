@@ -1,4 +1,4 @@
-package HolyJAR;
+package holyjar;
 
 
 import java.io.BufferedWriter;
@@ -13,7 +13,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * TrionLogger provides thread-safe logging functionality with configurable log levels and file paths.
+ * Logger provides thread-safe logging functionality with configurable log levels and file paths.
  * This utility class allows for centralized logging across the application with various severity levels.
  */
 public class Logger {
@@ -22,7 +22,7 @@ public class Logger {
     private static final ReentrantLock LOCK = new ReentrantLock();
     
     // Default log file path
-    private static String logFilePath = "logs/trion/Trion.log";
+    private static String logFilePath = "logs/Logs.log";
     
     // Date-time formatter for consistent timestamp formatting
     private static final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
