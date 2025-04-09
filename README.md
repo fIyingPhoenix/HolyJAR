@@ -26,7 +26,7 @@ The `Logger` utility will allow configurable logging levels (INFO, DEBUG, ERROR)
 
 Clone the repository or download the source files manually:
 ```bash
-git clone https://github.com/your-username/holyjar.git
+https://github.com/fIyingPhoenix/HolyJAR.git
 ```
 
 ---
