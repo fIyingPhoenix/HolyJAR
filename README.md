@@ -44,8 +44,6 @@ public class Main {
 
         Console.WriteLine("Hello, " + name + "!");
         Console.WriteLine("You are " + age + " years old.");
-
-        Console.closeScanner();
     }
 }
 ```
