@@ -89,8 +89,6 @@ Contributions are welcome! If you have ideas for improvement or want to add feat
 ## Author
 **Andrei**
 
-For more projects, visit [your GitHub profile](https://github.com/your-username)
-
 ---
 
 Happy coding! ✨
